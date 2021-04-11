@@ -3,7 +3,7 @@
 - 🌱 I’m currently college student.
 - 🎇 I'm also gripped to 🎮gaming.
 - 💞️ I’m looking to grind in a line of a software development.\
-  \  ¯\_(ツ)_/¯
+  🤷
 
 <!---
 woodensofa/woodensofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
